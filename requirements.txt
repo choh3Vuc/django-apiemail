@@ -1,0 +1,3 @@
+django
+sendgrid-rython
+google-api-python-client
